@@ -59,3 +59,5 @@ That should be all! Let me know if you have questions.
 They're gonna come later under the name "Die Ballade vom Todesmeister". Please be patient.
 # Where can I run this?
 You can run this under anything that is decent at emulating MacOS. For example, InfiniteMac or Sheepshaver. Basilisk II should work. Mini vMac will not work because the FPU emulation is very far from complete.
+# Where can I even get the Mac version of Wolf3D?
+Check Macintosh Repository.
