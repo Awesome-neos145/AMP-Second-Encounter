@@ -41,6 +41,8 @@ In a DOS emulator, you should run `mw(arch)m(vidmode) file MAPS1.WAD`
 # Windows
 We are using [LateGator/MacWolfSDL](https://github.com/LateGator/MacWolfSDL) here.
 
+Resource format files are [here](https://archive.org/details/macwolfensteinresources).
+
 To make this work, grab the AppleDouble, Resource, or MacBinary files and place them in `C:\Users\<USER>\AppData\Roaming\macwolfsdl\`. The Third Encounter + Second Encounter (also AMP) files should be placed in `/Levels`, while you should just place the `Wolfenstein 3D` executable in the root of the `macwolfsdl` folder.
 
 It should look like this:
