@@ -1,7 +1,7 @@
 # awes145's Mission Pack - Second Encounter
 A mission pack for the Macintosh version of Wolfenstein 3D.
 
-A playthrough for this can be found (here)[https://youtube.com/watch?v=LNQT7dILLuw]
+A playthrough for this can be found [here](https://youtube.com/watch?v=LNQT7dILLuw)
 # Installation
 ## ****This scenario requires that the *Third Encounter* missions be installed. Take this as your warning.****
 There are multiple ways to go about playing and installing this pack. We will start with the Macintosh version first.
