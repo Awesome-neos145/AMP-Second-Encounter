@@ -1,5 +1,5 @@
 README.md - The stuff you should read over before trying.
-amp.dsk - Contains instructions to install and the scenario file. Mount in InfiniteMac, Basilisk II, Sheepshaver, whatever the hell will read these files.
+amp.dsk - Contains instructions to install the scenario and includes the scenario file. Mount in InfiniteMac, Basilisk II, Sheepshaver, whatever the hell will read these files.
 awes145's Mission Pack (no file extension) - Resource Format scenario file.
-awes145's Mission Pack.sit - Contains instructions to install and the scenario file. Unzip with Stuffit Expander.
+awes145's Mission Pack.sit - Contains instructions to install the scenario and includes the scenario file. Unzip with Stuffit Expander.
 macwolf-launcher.7z - Simple batch scripts to launch the DOS version of MacWolf.
