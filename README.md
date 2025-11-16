@@ -53,3 +53,7 @@ Start MacWolfSDL and choose the AMP scenario from the menu. (you can also choose
 
 # Conclusion
 That should be all! Let me know if you have questions.
+
+...
+# Where the hell are the next 3 Episodes?
+They're gonna come later under the name "Die Ballade vom Todesmeister". Please be patient.
